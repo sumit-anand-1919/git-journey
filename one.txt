@@ -3,6 +3,7 @@ one
 1
 1
 hello my name is sumit and this is me testing and trying out GitHub and git for the first time.
+Adding this line directly on github to test the fetch and pull commands.
 
 
 
